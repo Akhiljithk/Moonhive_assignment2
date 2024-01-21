@@ -1,0 +1,25 @@
+.newSplitForm{
+    margin-bottom: 20px;
+}
+
+.splitPageWrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 5%;
+}
+.selectedPerson{
+    width: 400px;
+    background: #c9eaff;
+    padding: 15px 17px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px;
+}
+.splitAmount{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
