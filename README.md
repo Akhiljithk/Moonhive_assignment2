@@ -6,7 +6,7 @@ Application built using React.js.
 2. Install the required packages:
    ```bash
    npm install
-3. Start the client-side application:
+3. Start the application:
    ```bash
    npm start
 
