@@ -1,6 +1,4 @@
-### Project Structure
-
-- **Client:** The client-side of the application built using React.js.
+Application built using React.js.
 
 1. Clone the repository:
    ```bash
